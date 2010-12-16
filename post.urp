@@ -1,0 +1,6 @@
+rewrite url Post/*
+database dbname=example.db
+sql example.sql
+
+post
+
